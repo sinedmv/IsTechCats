@@ -1,0 +1,5 @@
+org\sinedmv\Cats\dao\util\HibernateSessionFactoryUtil.class
+org\sinedmv\Cats\dao\Models\Cat.class
+org\sinedmv\Cats\dao\Models\Owner.class
+org\sinedmv\Cats\dao\Exceptions\DaoException.class
+org\sinedmv\Cats\dao\Enums\Color.class
